@@ -20,11 +20,11 @@ I excel in:
 ## 📊 **GitHub Activities**
 
 <p align="center">
-  <a href="https://github.com/hcrypto7?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hcrypto7&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@drhinofficial's github-readme-stats"/>
+  <a href="https://github.com/drhinofficial?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=drhinofficial&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@drhinofficial's github-readme-stats"/>
   </a>
-  <a href="https://github.com/hcrypto7?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hcrypto7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@hcrypto7's github-readme-streak-stats"/>
+  <a href="https://github.com/drhinofficial?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=drhinofficial&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@drhinofficial's github-readme-streak-stats"/>
   </a>
 </p>
 
