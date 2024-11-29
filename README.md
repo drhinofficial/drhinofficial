@@ -1,4 +1,4 @@
-# <div align="center">💫 backend Developer | System Admin |  💫</div>
+# <div align="center">💫 Backend Developer | System Admin | Cloud Engineer 💫</div>
 
 <br/>🤝 I’m currently working at **Heurist.ai** as an **SDE 1**, solving complex backend challenges and building scalable systems.
 <br/>💬 Ask me about **Python**, **Backend Services**, **Databases**, **AWS**, **Docker**, and more! I specialize in delivering solutions that drive efficiency and performance.
