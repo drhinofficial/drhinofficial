@@ -72,6 +72,12 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
       <br>Postman
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="prometheus" />
+      <br>Prometheus
+    </td>
     <!--  <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
