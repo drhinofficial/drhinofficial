@@ -38,11 +38,11 @@
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
       <br>NFT
     </td>
-    <!-- <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Github
+    </td>
+   <!--  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
