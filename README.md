@@ -39,14 +39,14 @@
       <br>NFT
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" style="border-radius: 15px;" alt="github" />
       <br>Github
     </td>
-   <!--  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
+   =<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="rest" />
+      <br>Rest API
     </td>
-    <td align="center" width="90">
+     <!--  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
