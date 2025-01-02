@@ -46,15 +46,31 @@
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="rest" />
       <br>Rest API
     </td>
-     <!--  <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" />
+      <br>GCP
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="grafana" />
+      <br>Grafana
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux" />
+      <br>Linux
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=notion" width="45" height="45" alt="notion" />
+      <br>Notion
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="postgres" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
+      <br>Postman
+    </td>
+    <!--  <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
     </td>
