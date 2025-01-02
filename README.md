@@ -38,6 +38,8 @@
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
       <br>NFT
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" style="border-radius: 15px;" alt="github" />
       <br>Github
